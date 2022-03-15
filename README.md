@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinayshilpani123
 - 👀 I’m interested in full stack developer
 - 🌱 I’m currently learning mearn stack
-- 💞️ I’m looking to collaborate on a mearn stack project.
+- 💞️ I’m looking to collaborate on a mern stack project.
 - 📫 you can contact on vinay.shilpani123@gmail.com
 
 <!---
