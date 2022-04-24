@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinayshilpani123
-- 👀 I’m interested in full stack developer
+- 👀 I’m a full stack developer
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on a mern stack project.
 - 📫 you can contact on 
