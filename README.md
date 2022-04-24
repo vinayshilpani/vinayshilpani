@@ -2,7 +2,9 @@
 - 👀 I’m interested in full stack developer
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on a mern stack project.
-- 📫 you can contact on vinay.shilpani123@gmail.com
+- 📫 you can contact on 
+     Gmail - vinay.shilpani123@gmail.com
+     linkedin - https://www.linkedin.com/in/vinaysingh141988/
 
 <!---
 vinayshilpani123/vinayshilpani123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
