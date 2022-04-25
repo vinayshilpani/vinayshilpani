@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a mern stack project.
 - 📫 you can contact on 
      Gmail - vinay.shilpani123@gmail.com
-     linkedin - https://www.linkedin.com/in/vinaysingh/
+     linkedin - https://www.linkedin.com/in/vinayshilpani/
      instagram - https://www.instagram.com/whovinaysingh/
 
 <!---
